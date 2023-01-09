@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AngularEshop.WebApi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AngularEshop.WebApi.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\origin\\slide-1.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\origin\\slide-2.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-3.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\origin\\slide-3.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-4.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\origin\\slide-4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AngularEshop.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AngularEshop.WebApi.props",
+      "PackagePath": "build\\AngularEshop.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AngularEshop.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\AngularEshop.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AngularEshop.WebApi.props",
+      "PackagePath": "buildTransitive\\AngularEshop.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
