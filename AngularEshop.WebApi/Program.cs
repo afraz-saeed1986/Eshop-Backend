@@ -2,6 +2,7 @@ using AngleSharp;
 using AngularEshop.Core.Security;
 using AngularEshop.Core.Services.Implementations;
 using AngularEshop.Core.Services.Interfaces;
+using AngularEshop.Core.Utilities.Convertors;
 using AngularEshop.DataLayer.Context;
 //using AngularEshop.Core.Utilities.Extentions.Connection;
 using AngularEshop.DataLayer.Repository;
@@ -26,6 +27,8 @@ builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<ISliderService, SliderService>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IPasswordHelper, PasswordHelper>();
+builder.Services.AddScoped<IMailSender, SendEmail>();
+builder.Services.AddScoped<IViewRenderService, RenderViewToString>();
 #endregion
 
 #region Authentication
@@ -58,7 +61,11 @@ builder.Services.AddCors(options =>
 #endregion
 
 //builder.Services.AddControllersWithViews();
+//builder.Services.AddRazorPages();
 builder.Services.AddControllers();
+
+//builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages();
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v2", new OpenApiInfo { Title = "EShopWebAPI With .NetCore 7", Version = "v2" });
@@ -82,9 +89,10 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
+
+
 app.UseRouting();
 app.UseCors();
-
 app.UseAuthentication();
 
 app.UseAuthorization();

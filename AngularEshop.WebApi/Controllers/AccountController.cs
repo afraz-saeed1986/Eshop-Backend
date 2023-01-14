@@ -34,6 +34,7 @@ namespace AngularEshop.WebApi.Controllers
         #endregion
 
         #region Register
+        [AllowAnonymous]
         [HttpPost("register")]
         public async Task<IActionResult> Register(RegisterUserDTO register)
         {
@@ -103,7 +104,6 @@ namespace AngularEshop.WebApi.Controllers
         #endregion
 
         #region Check User Authentication
-        [EnableCors("EnableCors")]
         [Authorize]
         [HttpPost("checked-auth")]
         public async Task<IActionResult> CheckUserAuth()
@@ -123,6 +123,23 @@ namespace AngularEshop.WebApi.Controllers
             }
 
             return JsonResponseStatus.Error();
+        }
+
+        #endregion
+
+        #region Activate User Account
+        [AllowAnonymous]
+        [HttpGet("activate-account/{id}")]
+        public async Task<IActionResult> ActivateAccount(string id)
+        {
+            var user = await userService.GetUserByEmailActiveCode(id);
+
+            if(user != null)
+            {
+                userService.ActivateUser(user);
+                return JsonResponseStatus.Success();
+            }
+            return JsonResponseStatus.NotFound();
         }
 
         #endregion

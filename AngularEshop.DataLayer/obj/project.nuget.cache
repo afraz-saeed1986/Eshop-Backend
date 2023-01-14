@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TLxTEZSNi7VEslW/NG3OhdWKIQSkhiAEGxYp8D9pXB6DBlsh2N20Et3G2BBRvwuxjAOcm96Zw0pdYOIRbspTog==",
+  "dgSpecHash": "aAfp+RI4lpF53O/ey5+jbiByutR6eAvEvBv5knPDl/GQJtg4doHh/q8mnLFgyRryUpaCwwv2BWjuaz5LAfOa8Q==",
   "success": true,
-  "projectFilePath": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.DataLayer\\AngularEshop.DataLayer.csproj",
+  "projectFilePath": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.DataLayer\\AngularEshop.DataLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s.afraz.RBC\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\s.afraz.RBC\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

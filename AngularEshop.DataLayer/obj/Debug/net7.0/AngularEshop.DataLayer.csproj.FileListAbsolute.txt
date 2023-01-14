@@ -26,3 +26,31 @@ G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه�
 G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\AngularEshop\AngularEshop\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.pdb
 G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\AngularEshop\AngularEshop\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.genruntimeconfig.cache
 G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\AngularEshop\AngularEshop\AngularEshop.DataLayer\obj\Debug\net7.0\ref\AngularEshop.DataLayer.dll
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\bin\Debug\net7.0\AngularEshop.DataLayer.deps.json
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\bin\Debug\net7.0\AngularEshop.DataLayer.runtimeconfig.json
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\bin\Debug\net7.0\AngularEshop.DataLayer.dll
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\bin\Debug\net7.0\AngularEshop.DataLayer.pdb
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.csproj.AssemblyReference.cache
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.AssemblyInfoInputs.cache
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.AssemblyInfo.cs
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.csproj.CoreCompileInputs.cache
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.dll
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\refint\AngularEshop.DataLayer.dll
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.pdb
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.genruntimeconfig.cache
+G:\Training2022\Angular\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\ref\AngularEshop.DataLayer.dll
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\bin\Debug\net7.0\AngularEshop.DataLayer.deps.json
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\bin\Debug\net7.0\AngularEshop.DataLayer.runtimeconfig.json
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\bin\Debug\net7.0\AngularEshop.DataLayer.dll
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\bin\Debug\net7.0\AngularEshop.DataLayer.pdb
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.csproj.AssemblyReference.cache
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.AssemblyInfoInputs.cache
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.AssemblyInfo.cs
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.csproj.CoreCompileInputs.cache
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.dll
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\refint\AngularEshop.DataLayer.dll
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.pdb
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\AngularEshop.DataLayer.genruntimeconfig.cache
+G:\Training2022\Angular\TopLearn -Create Pro Shop With Angular 9\projects\1-AngularEshop-Back\AngularEshop.DataLayer\obj\Debug\net7.0\ref\AngularEshop.DataLayer.dll

@@ -1,5 +1,6 @@
 ﻿using AngularEshop.Core.Services.Interfaces;
 using AngularEshop.Core.Utilities.Common;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -19,7 +20,7 @@ namespace AngularEshop.WebApi.Controllers
         #endregion
 
         #region all active sliders
-        [EnableCors("EnableCors")]
+        [AllowAnonymous]
         [HttpGet("GetActiveSliders")]
         public async Task<IActionResult> GetActiveSliders()
         {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KQ8VqXvbsqJ80D8LCexFXNr/zoTPYX+E7dnYIE3WPbE=",
+  "Hash": "hCCgvmSR/xi2Wc8/3lbaDCs0WQrhvGS6IeU+ZcTkSIc=",
   "Source": "AngularEshop.WebApi",
   "BasePath": "_content/AngularEshop.WebApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AngularEshop.WebApi\\wwwroot",
       "Source": "AngularEshop.WebApi",
-      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\",
+      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\",
       "BasePath": "_content/AngularEshop.WebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AngularEshop.WebApi.styles.css",
+      "Identity": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AngularEshop.WebApi.styles.css",
       "SourceId": "AngularEshop.WebApi",
       "SourceType": "Computed",
-      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AngularEshop.WebApi",
       "RelativePath": "AngularEshop.WebApi.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AngularEshop.WebApi.styles.css"
+      "OriginalItemSpec": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AngularEshop.WebApi.styles.css"
     },
     {
-      "Identity": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AngularEshop.WebApi.bundle.scp.css",
+      "Identity": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AngularEshop.WebApi.bundle.scp.css",
       "SourceId": "AngularEshop.WebApi",
       "SourceType": "Computed",
-      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AngularEshop.WebApi",
       "RelativePath": "AngularEshop.WebApi.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AngularEshop.WebApi.bundle.scp.css"
+      "OriginalItemSpec": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AngularEshop.WebApi.bundle.scp.css"
     },
     {
-      "Identity": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-1.jpg",
+      "Identity": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-1.jpg",
       "SourceId": "AngularEshop.WebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\",
+      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\",
       "BasePath": "_content/AngularEshop.WebApi",
       "RelativePath": "images/sliders/origin/slide-1.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sliders\\origin\\slide-1.jpg"
     },
     {
-      "Identity": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-2.jpg",
+      "Identity": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-2.jpg",
       "SourceId": "AngularEshop.WebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\",
+      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\",
       "BasePath": "_content/AngularEshop.WebApi",
       "RelativePath": "images/sliders/origin/slide-2.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sliders\\origin\\slide-2.jpg"
     },
     {
-      "Identity": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-3.jpg",
+      "Identity": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-3.jpg",
       "SourceId": "AngularEshop.WebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\",
+      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\",
       "BasePath": "_content/AngularEshop.WebApi",
       "RelativePath": "images/sliders/origin/slide-3.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sliders\\origin\\slide-3.jpg"
     },
     {
-      "Identity": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-4.jpg",
+      "Identity": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-4.jpg",
       "SourceId": "AngularEshop.WebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\wwwroot\\",
+      "ContentRoot": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\",
       "BasePath": "_content/AngularEshop.WebApi",
       "RelativePath": "images/sliders/origin/slide-4.jpg",
       "AssetKind": "All",

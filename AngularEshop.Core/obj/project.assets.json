@@ -9834,11 +9834,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.Core\\AngularEshop.Core.csproj",
+      "projectUniqueName": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.Core\\AngularEshop.Core.csproj",
       "projectName": "AngularEshop.Core",
-      "projectPath": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.Core\\AngularEshop.Core.csproj",
+      "projectPath": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.Core\\AngularEshop.Core.csproj",
       "packagesPath": "C:\\Users\\s.afraz.RBC\\.nuget\\packages\\",
-      "outputPath": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.Core\\obj\\",
+      "outputPath": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -9860,8 +9860,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.DataLayer\\AngularEshop.DataLayer.csproj": {
-              "projectPath": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.DataLayer\\AngularEshop.DataLayer.csproj"
+            "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.DataLayer\\AngularEshop.DataLayer.csproj": {
+              "projectPath": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.DataLayer\\AngularEshop.DataLayer.csproj"
             }
           }
         }

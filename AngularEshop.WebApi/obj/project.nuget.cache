@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+9tXzPBsOEdj9rypUrd5+v0I4DOwi+n1UzSZvxUUnQvSUQMNG1x+D3MC/HN810zn8osNX6IqqUK/cl74EyXmfg==",
+  "dgSpecHash": "AHi4jTrMeUIE3asiV32+2mGAE7pi5mCT61ZonfIMTTutWMlK3WLr50ghItXle64f7qzi8A2kQuPbbUXxCVqs5w==",
   "success": true,
-  "projectFilePath": "G:\\Training2022\\Angular\\TopLearn - آموزش ساخت فروشگاه حرفه‌ای با Angular 9\\projects\\AngularEshop\\AngularEshop\\AngularEshop.WebApi\\AngularEshop.WebApi.csproj",
+  "projectFilePath": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\AngularEshop.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s.afraz.RBC\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\Users\\s.afraz.RBC\\.nuget\\packages\\anglesharp.css\\0.16.4\\anglesharp.css.0.16.4.nupkg.sha512",
