@@ -1,4 +1,5 @@
-﻿using AngularEshop.DataLayer.Entities.Product;
+﻿using AngularEshop.Core.DTOs.Products;
+using AngularEshop.DataLayer.Entities.Product;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,7 @@ namespace AngularEshop.Core.Services.Interfaces
         #region product
         Task AddProduct(Product product);
         Task UpdateProduct(Product product);
+        Task<FilterProductsDTO>  FilterProducts(FilterProductsDTO filter);
         #endregion
     }
 }
