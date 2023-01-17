@@ -30,10 +30,20 @@ namespace AngularEshop.WebApi.Controllers
         {
             var products = await productService.FilterProducts(filter);
 
-            await Task.Delay(4000);
+            //await Task.Delay(4000);
 
             return JsonResponseStatus.Success(products);
         }
+        #endregion
+
+        #region get products categories
+        [AllowAnonymous]
+        [HttpGet("product-active-categories")]
+        public async Task<IActionResult> GetProductsCategories()
+        {
+            return JsonResponseStatus.Success(await productService.GetAllActiveProductCategories());
+        }
+
         #endregion
     }
 }

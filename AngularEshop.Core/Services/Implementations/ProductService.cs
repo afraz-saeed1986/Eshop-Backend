@@ -51,12 +51,32 @@ namespace AngularEshop.Core.Services.Implementations
         public async Task<FilterProductsDTO> FilterProducts(FilterProductsDTO filter)
         {
             var productsQuery = productRepository.GetEntitiesQuery().AsQueryable();
+
+            switch (filter.OrderBy)
+            {
+                case productOrderBy.PriceAsc:
+                    productsQuery = productsQuery.OrderBy(p => p.Price);
+                    break;
+                case productOrderBy.PriceDec:
+                    productsQuery = productsQuery.OrderByDescending(p => p.Price);
+                    break;
+            }
+
             if (!string.IsNullOrEmpty(filter.Title))
             {
                 productsQuery = productsQuery.Where(p => p.ProductName.Contains(filter.Title));
             }
 
             productsQuery = productsQuery.Where(p => p.Price >= filter.StartPrice);
+
+            if (filter.Categories != null && filter.Categories.Any())
+            {
+                productsQuery = productsQuery.
+                    SelectMany(p => p.ProductSelectedCategories.
+                    Where(c => filter.Categories.Contains(c.ProductCategoryId)).
+                    Select(s => s.Product));
+            }
+
             if (filter.EndPrice != 0)
                 productsQuery = productsQuery.Where(p => p.Price <= filter.EndPrice);
 
@@ -68,6 +88,15 @@ namespace AngularEshop.Core.Services.Implementations
 
             return filter.SetProducts(products).SetPaging(pager);
         }
+        #endregion
+
+        #region product categories
+
+        public async Task<List<ProductCategory>> GetAllActiveProductCategories()
+        {
+            return await productCategoryRepository.GetEntitiesQuery().Where(c => !c.IsDelete).ToListAsync();
+        }
+
         #endregion
 
         #region dispose
