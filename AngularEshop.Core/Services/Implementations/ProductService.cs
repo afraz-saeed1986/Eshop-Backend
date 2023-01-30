@@ -67,6 +67,15 @@ namespace AngularEshop.Core.Services.Implementations
                 productsQuery = productsQuery.Where(p => p.ProductName.Contains(filter.Title));
             }
 
+            if(filter.StartPrice != 0)
+            {
+                productsQuery = productsQuery.Where(p => p.Price >= filter.StartPrice);
+            }
+            if (filter.EndPrice != 0)
+            {
+                productsQuery = productsQuery.Where(p => p.Price <= filter.EndPrice);
+            }
+
             productsQuery = productsQuery.Where(p => p.Price >= filter.StartPrice);
 
             if (filter.Categories != null && filter.Categories.Any())
@@ -88,6 +97,27 @@ namespace AngularEshop.Core.Services.Implementations
 
             return filter.SetProducts(products).SetPaging(pager);
         }
+
+        public async Task<Product> GetProductById(long productId)
+        {
+            return await productRepository.GetEntityById(productId);
+        }
+
+        public async Task<List<Product>> GetRelatedProducts(long productId)
+        {
+            var product = await productRepository.GetEntityById(productId);
+            if (product == null) return null;
+
+            var productCategoriesList = await productSelectedCategoryRepository.GetEntitiesQuery()
+                .Where(s => s.ProductId == productId).Select(f => f.ProductCategoryId).ToListAsync();
+
+            var relatedProducts = await productRepository.GetEntitiesQuery().SelectMany(s =>
+                s.ProductSelectedCategories.Where(f => productCategoriesList.Contains(f.ProductCategoryId)).Select(t => t.Product))
+                .Where(s => s.Id != productId)
+                .OrderByDescending(s => s.CreateDate).Take(4).ToListAsync();
+
+            return relatedProducts;
+        }
         #endregion
 
         #region product categories
@@ -97,6 +127,22 @@ namespace AngularEshop.Core.Services.Implementations
             return await productCategoryRepository.GetEntitiesQuery().Where(c => !c.IsDelete).ToListAsync();
         }
 
+        #endregion
+
+        #region products gallery
+        public async Task<List<ProductGallery>> GetProductActiveGalleries(long productId)
+        {
+            return await productGalleryRepository.GetEntitiesQuery()
+                .Where(g => g.ProductId == productId && !g.IsDelete)
+                .Select(g => new ProductGallery
+                {
+                    ProductId = g.ProductId,
+                    Id = g.Id,
+                    ImageName = g.ImageName,
+                    CreateDate = g.CreateDate
+                })
+                .ToListAsync();
+        }
         #endregion
 
         #region dispose
@@ -109,6 +155,5 @@ namespace AngularEshop.Core.Services.Implementations
             productVisitRepository?.Dispose();
         }
         #endregion
-
     }
 }

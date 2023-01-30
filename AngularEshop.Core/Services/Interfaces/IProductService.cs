@@ -14,12 +14,18 @@ namespace AngularEshop.Core.Services.Interfaces
         Task AddProduct(Product product);
         Task UpdateProduct(Product product);
         Task<FilterProductsDTO>  FilterProducts(FilterProductsDTO filter);
+        Task<Product> GetProductById(long productId);
+        Task<List<Product>> GetRelatedProducts(long productId);
         #endregion
 
         #region product categories
 
         Task<List<ProductCategory>> GetAllActiveProductCategories();
 
+        #endregion
+
+        #region product gallery
+        Task<List<ProductGallery>> GetProductActiveGalleries(long productId);
         #endregion
     }
 }

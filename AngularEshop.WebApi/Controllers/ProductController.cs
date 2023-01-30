@@ -45,5 +45,30 @@ namespace AngularEshop.WebApi.Controllers
         }
 
         #endregion
+
+        #region get single product
+        [AllowAnonymous]
+        [HttpGet("single-product/{id}")]
+        public async Task<IActionResult> GetProduct(long id)
+        {
+            var product = await productService.GetProductById(id);
+            var productGalleries = await productService.GetProductActiveGalleries(id);
+
+
+            if(product != null)
+            return JsonResponseStatus.Success(new {product = product, galleries = productGalleries });
+
+            return JsonResponseStatus.NotFound();
+        }
+        #endregion
+
+        #region related products
+        [HttpGet("related-products/{id}")]
+        public async Task<IActionResult> GetRelatedProducts(long id)
+        {
+            var relatedProduct = await productService.GetRelatedProducts(id);
+            return JsonResponseStatus.Success(relatedProduct);
+        }
+        #endregion
     }
 }

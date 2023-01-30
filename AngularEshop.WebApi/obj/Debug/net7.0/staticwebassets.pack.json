@@ -5,6 +5,78 @@
       "PackagePath": "staticwebassets\\AngularEshop.WebApi.bundle.scp.css"
     },
     {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\product-galleries\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-galleries\\1.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\product-galleries\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-galleries\\2.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\1.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\10.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\11.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\12.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\13.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\14.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\15.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\16.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\16.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\2.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\3.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\4.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\5.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\6.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\7.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\8.jpg"
+    },
+    {
+      "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\products\\origin\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\9.jpg"
+    },
+    {
       "Id": "G:\\Training2022\\Angular\\TopLearn -Create Pro Shop With Angular 9\\projects\\1-AngularEshop-Back\\AngularEshop.WebApi\\wwwroot\\images\\sliders\\origin\\slide-1.jpg",
       "PackagePath": "staticwebassets\\images\\sliders\\origin\\slide-1.jpg"
     },
